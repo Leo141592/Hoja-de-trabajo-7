@@ -787,8 +787,7 @@
 (woman,fémina)
 (man,adulto)
 (side,borde)
-EOF
-wc -l /mnt/user-data/outputs/palabras_comunes.txt(brother,hermano)
+(brother,hermano)
 (sister,hermana)
 (father,padre)
 (son,hijo)
