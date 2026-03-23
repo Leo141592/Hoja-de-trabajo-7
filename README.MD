@@ -1,8 +1,8 @@
 # Hoja de Trabajo 7 - Binary Search Trees (BST)
 
 ## 👤 Autor
-Nombre: **[TU NOMBRE AQUÍ]**  
-Repositorio: **[LINK DE TU REPO AQUÍ]**
+Nombre: **Jose Leonel Hernandez Suchini**  
+Repositorio: **https://github.com/Leo141592/Hoja-de-trabajo-7**
 
 ---
 
